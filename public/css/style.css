@@ -1,0 +1,11 @@
+nav.navbar {
+    box-shadow: 0px 2px 5px #07a9b4;
+    margin-bottom: 15px;
+}
+
+#postsCarousel .carousel-inner .carousel-item {
+    height: 400px !important;
+    width: 400px !important;
+}
+
+img.index-post-coverImg {}
